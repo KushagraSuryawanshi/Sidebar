@@ -1,2 +1,2 @@
-# A basic html and css webpage
+# First web page of my life, made up of html and vanilla css
 
