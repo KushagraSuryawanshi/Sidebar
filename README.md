@@ -2,7 +2,7 @@
 
 ## Overview
 
-The My First Web Page Project is a web-based application featuring a responsive sidebar navigation menu. This project marks my initial journey into web development. The application includes links to various sections such as Gallery, Shortcuts, Exhibits, Events, Store, Contact, and Feedback. It also provides social media links to Facebook, Twitter, Instagram, and YouTube. The project utilizes HTML, CSS, and Font Awesome for icons.
+The My First Web Page Project is a web-based application featuring a responsive sidebar navigation menu. This project marks my initial journey into development. The application includes links to various sections such as Gallery, Shortcuts, Exhibits, Events, Store, Contact, and Feedback. It also provides social media links to Facebook, Twitter, Instagram, and YouTube. The project utilizes HTML, CSS, and Font Awesome for icons.
 
 ## Features
 
