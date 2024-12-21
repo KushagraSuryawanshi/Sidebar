@@ -24,6 +24,7 @@ The My First Web Page Project is a web-based application featuring a responsive 
 ### Home Page
 ![Home Page](/readme_images/Home_Page.png)
 
+
 ### Sidebar Menu Open
 ![Sidebar Menu](/readme_images/Hamburger_sidebar.png)
 
